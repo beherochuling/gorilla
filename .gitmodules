@@ -10,3 +10,4 @@
 [submodule "libs/csrf"]
 	path = libs/csrf
 	url = https://github.com/gorilla/csrf.git
+	update = none
