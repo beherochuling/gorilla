@@ -1,0 +1,12 @@
+[submodule "libs/mux"]
+	path = libs/mux
+	url = https://github.com/gorilla/mux.git
+[submodule "libs/rpc"]
+	path = libs/rpc
+	url = https://github.com/gorilla/rpc.git
+[submodule "libs/securecookie"]
+	path = libs/securecookie
+	url = https://github.com/gorilla/securecookie.git
+[submodule "libs/csrf"]
+	path = libs/csrf
+	url = https://github.com/gorilla/csrf.git
